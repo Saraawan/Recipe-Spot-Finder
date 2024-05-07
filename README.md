@@ -1,5 +1,5 @@
 # Recipe-Spot-Finder
-#Recipe Finder
+# Recipe Finder
 ## Introduction
 The Recipe Finder is a tool designed to simplify the process of searching for and discovering new recipes based on specific ingredients, cuisines, or dietary restrictions. It provides users with a comprehensive platform to explore various meal ideas, along with features such as saving favorite recipes, creating shopping lists, and accessing cooking tips and inspiration.
 
